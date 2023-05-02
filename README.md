@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rasit COLAKEL</h1>
-<h3 align="center">I'm a full-stack developer who loves what I do. I'm passionate about building great products that make a difference in people's lives.y</h3>
+<h3 align="center">I'm a full-stack developer who loves what I do. I'm passionate about building great products that make a difference in people's lives.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasitcolakel&label=Profile%20views&color=0e75b6&style=flat" alt="rasitcolakel" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Maestro CLI, AWS, Prisma**
 
-- 👨‍💻 All of my projects are available at [rasit.me](rasit.me)
+- 👨‍💻 All of my projects are available at [rasit.me](https://rasit.me)
 
 - 📝 I regularly write articles on [https://rasitcolakel.medium.com/](https://rasitcolakel.medium.com/)
 
